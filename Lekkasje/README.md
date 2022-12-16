@@ -1,6 +1,8 @@
 # Lekkasje
-We recently had to fire an employee for gross misconduct against our business. We disabled his access to our file servers immediately, but he's now sending us blackmail. He claims that he has discovered a vulnerability in our website and can use it to access all of our company data. Fortunately for us, we managed to obtain a packet capture of the supposed incident. Can you see if he's managed to steal anything of value?
+En av kundene våre ble i slutten av november utsatt for et hackerangrep, der vi mistenker at sensitiv data ble stjålet. Heldigvis har vi loggført all trafikken mot tjenesten. Kan du finne ut hva hackerne fikk tak i?
+
+// One of our clients were subject of a hacker attack at the end of November, where we suspect sensitive data have been stolen. Fortunately, we have logged all traffic to the service. Can you figure out what the hackers managed to get?
 
     - Category: Forensics
     - Attachments:
-        - blog.pcap
+        - access.log.lrz
